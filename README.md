@@ -3,7 +3,7 @@
 A responsive, semantic multi-page web platform dedicated to showcasing the rich heritage, advanced infrastructure, and tourism landmarks of Yanbu Industrial City. Developed using modern frontend standards as part of the Advanced Topics in E-Commerce course.
 
 ## 🚀 Live Demo
-🌐 **[View Live Website](https://danalhazmi.github.io/yanbu-tourism-showcase/)** *(Note: Replace this with your actual GitHub Pages link once active)*
+🌐 **[View Live Website](https://danalhazmi.github.io/yanbu-tourism-showcase/)**
 
 ## ✨ Key Features
 - **Semantic Architecture:** Built entirely using structural HTML5 elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<footer>`) for maximum SEO readiness and accessibility.
